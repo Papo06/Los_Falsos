@@ -1,209 +1,54 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1717986492096 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1717987032084 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986495167 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717987035164 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986498259 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717987038211 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986501314 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717987041287 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986504379 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717987044338 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986507420 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717987047431 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986510464 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717987050465 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986513511 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717987053516 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986516547 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717987056591 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986519589 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717987059657 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986522631 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986525680 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986528750 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986531840 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986534890 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986537926 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986540989 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986544053 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986547140 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986550176 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986553219 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986556263 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986559315 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986562365 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986565430 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986568475 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986571510 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986574560 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986577598 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986580646 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986583694 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986586774 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986589843 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986592886 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986595955 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986598995 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986602055 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986605102 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986608152 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986611203 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986614259 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717986617305 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717987062708 tunnel running, 1 tunnels registered
 
 
 TUNNELS
