@@ -1,100 +1,160 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1717987032084 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718066249899 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717987035164 tunnel running, 1 tunnels registered
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066252945 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717987038211 tunnel running, 1 tunnels registered
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066255984 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717987041287 tunnel running, 1 tunnels registered
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066259026 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717987044338 tunnel running, 1 tunnels registered
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066262068 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717987047431 tunnel running, 1 tunnels registered
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066265109 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717987050465 tunnel running, 1 tunnels registered
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066268171 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717987053516 tunnel running, 1 tunnels registered
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066271206 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717987056591 tunnel running, 1 tunnels registered
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066274272 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717987059657 tunnel running, 1 tunnels registered
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066277340 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717987062708 tunnel running, 1 tunnels registered
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066280412 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717987065761 tunnel running, 1 tunnels registered
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066283466 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717987068820 tunnel running, 1 tunnels registered
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066286559 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717987071871 tunnel running, 1 tunnels registered
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066289664 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717987074940 tunnel running, 1 tunnels registered
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066292704 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717987077982 tunnel running, 1 tunnels registered
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066295741 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717987081054 tunnel running, 1 tunnels registered
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066298801 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717987084105 tunnel running, 1 tunnels registered
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066301838 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717987087141 tunnel running, 1 tunnels registered
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066304879 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717987090193 tunnel running, 1 tunnels registered
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066307930 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-specific-deliver.gl.at.ply.gg:26170 => 127.0.0.1:26170 (proto: Udp, port count: 1)
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066310983 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066314089 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066317140 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066320193 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066323246 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066326300 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066329337 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066332369 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066335435 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066338498 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066341540 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718066344580 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+score-mlb.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
